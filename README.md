@@ -1,8 +1,3 @@
-<p align="center">
-  <a href="https://ibb.co/hdxMJSm"><img src="https://i.ibb.co/c8KvSjr/Black-and-Red-Gradient-Professional-Linked-In-Banner-1.png" alt="Banner Image"></a>
-</p>
-
-
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
 <h3 align="center">MERN Stack Developer || Full Stack Developer From Bangladesh.</h3>
 
