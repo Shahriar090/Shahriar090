@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.linkedin.com/in/shahriar-hossain-890baa280/overlay/background-image/" alt="Banner Image">
+  <img src="https://ibb.co/hdxMJSm" alt="Banner Image">
 </p>
 
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
