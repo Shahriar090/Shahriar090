@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
-<h3 align="center">MERN Stack Developer || Full Stack Developer From Bangladesh.</h3>
+<h3 align="center">Front End || React Js. Web Developer From Bangladesh.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar090&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar090" /> </p>
 
