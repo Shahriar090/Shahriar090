@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Github**
 
-- 💬 Ask me about **MERN Stack Development**
+- 💬 Ask me about **Front End Development || React js. || Vanilla Js**
 
 - 📫 How to reach me **📧 hossainshahriar818@gmail.com**
 
