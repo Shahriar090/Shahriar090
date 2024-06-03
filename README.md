@@ -18,7 +18,8 @@
 
 - 💬 Ask me about **Front End Development | MERN Stack Development**
 
-- 📫 How to reach me **shahriarh655@gmail.com**
+- 📫 How to reach me **hossainshahriar818@gmail.com
+**
 
 - ⚡ Fun fact **I am Irom Man**
 
