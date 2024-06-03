@@ -27,7 +27,6 @@
 <p align="left">
 <a href="https://twitter.com/@shahriarh655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahriarh655" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/shahriar-hossain-890baa280" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shahriar-hossain-890baa280" height="30" width="40" /></a>
-<a href="[[https://fb.com/https://www.facebook.com/md.shahriarhossainsiyam]" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.shahriarhossainsiyam" height="30" width="40" /></a>
 <a href="https://discord.gg/shahriar__hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shahriar__hossain" height="30" width="40" /></a>
 </p>
 
