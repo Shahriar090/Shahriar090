@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
 <h3 align="center">Front End || React Js. || JavaScript Developer From Bangladesh.</h3>
 <div align="center" style="margin-top: 20px; margin-bottom: 20px;">
-  <img alt="Coding Image" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)">
+  <img alt="Coding Image" width="400" src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif">
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahriar090&label=Profile%20views&color=0e75b6&style=flat" alt="shahriar090" /> </p>
