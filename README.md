@@ -35,11 +35,12 @@
 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar090&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="300"></td>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=shahriar090&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="300"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar090" alt="GitHub Streak" width="300" height="300"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=shahriar090&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="300" height="200"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=shahriar090&show_icons=true&locale=en" alt="GitHub Stats" width="300" height="200"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar090" alt="GitHub Streak" width="300" height="200"></td>
   </tr>
 </table>
+
 
 
 
