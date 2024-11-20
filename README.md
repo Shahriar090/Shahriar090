@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  <img height="200" width="100%" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
