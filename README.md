@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahriar090" alt="shahriar090" /></a> </p>
 
-- 🔭 I’m currently working on the back-end of a university management system web application [Uni-link Server] (https://github.com/Shahriar090/uni_link_server)
+- 🔭 I’m currently working on the back-end of a university management system web application [Uni-link Server](https://github.com/Shahriar090/uni_link_server)
 
 - 🌱 I’m currently learning **Object-Oriented Programming (OOP) and Data Structures and Algorithms (DSA) while refining my existing skills by diving deeper.**
 
