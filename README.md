@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
+  <img height="200" src="https://user-images.githubusercontent.com/74038190/219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521.gif"  />
 </div>
 
 <h1 align="center">Hi 👋, I'm Shahriar Hossain</h1>
@@ -30,7 +30,7 @@
 <a href="https://twitter.com/@shahriarh655" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shahriarh655" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/shahriarhsn/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shahriarhsn/" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/md.shahriarhossainsiyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/md.shahriarhossainsiyam" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shahriarh655/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shahriarh655/" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/shahriarh655/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shahriarh655/" height="30" width="40" /></a>
 <a href="https://discord.gg/shahriar__hossain" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shahriar__hossain" height="30" width="40" /></a>
 </p>
 
