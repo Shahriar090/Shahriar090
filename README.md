@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriar090&theme=github-dark&hide_border=true" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=shahriar090&theme=github-dark&hide_border=true" />
   </a>
 </p>
 
@@ -30,18 +30,18 @@
 
 ### 🌐 Connect
 
-<p align="center" style="display:flex; justify-content:center; gap:18px;">
+<p align="left">
 
 <a href="https://instagram.com/hossain_shah_riar_" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="28" />
+  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
 </a>
 
 <a href="https://www.leetcode.com/shahriarh655" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="28" />
+  <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode" />
 </a>
 
 <a href="https://www.linkedin.com/in/shahriarhsn/" target="_blank">
-  <img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png" height="28" />
+  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
 </a>
 
 </p>
@@ -50,30 +50,55 @@
 
 ### 🛠 Tech Stack
 
-<p align="center" style="display:flex; flex-wrap:wrap; justify-content:center; gap:18px;">
+#### 💻 Languages
+<p align="left">
+  <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript" />
+  <img src="https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript" />
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="36"/>
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="36"/>
+#### 🎨 Frontend
+<p align="left">
+  <img src="https://img.shields.io/badge/React-000?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Redux-000?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/RTK Query-000?style=for-the-badge&logo=redux" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5" />
+  <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3" />
+  <img src="https://img.shields.io/badge/Tailwind-000?style=for-the-badge&logo=tailwindcss" />
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="36"/>
+#### ⚙️ Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js" />
+  <img src="https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express" />
+  <img src="https://img.shields.io/badge/REST API-000?style=for-the-badge&logo=fastapi" />
+</p>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="36"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="36"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="36"/>
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36"/>
+#### 🔐 Authentication & Security
+<p align="left">
+  <img src="https://img.shields.io/badge/JWT-000?style=for-the-badge&logo=jsonwebtokens" />
+  <img src="https://img.shields.io/badge/JWT%20%2B%20Refresh%20Token-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Session--Based%20Auth-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cookies-000?style=for-the-badge" />
+</p>
 
+#### 🗄 Database & ORM
+<p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-000?style=for-the-badge&logo=mongodb" />
+  <img src="https://img.shields.io/badge/Mongoose-000?style=for-the-badge" />
+</p>
+
+
+#### 🧰 Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="center">
+<p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=shahriar090&show_icons=true&theme=github_dark&hide_border=true&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&bg_color=0d1117" height="150"/>
 
@@ -81,6 +106,6 @@
 
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahriar090&theme=github-dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=c9d1d9" height="150"/>
 </p>
