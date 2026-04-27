@@ -17,14 +17,32 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 Working on **Gearly | Full-Stack E-Commerce Application**
-- 🌱 Learning **DSA, Problem Solving, Scalable Full-Stack Systems**
-- 👯 Open to **collaboration on GitHub projects**
-- 🌐 Portfolio: https://dev-shahriar.netlify.app/
-- 💬 Ask me about **JavaScript, MERN, TypeScript**
-- 📫 Email: **shahriarh655@gmail.com**
-- 📄 Resume: https://drive.google.com/file/d/1jXQDKs9ymRFHbvTqmXxCFmp8XyzWWxWJ/view
-- ⚡ Fun fact: *I am Iron Man*
+💻 Full-Stack JavaScript Developer focused on **scalable MERN applications**
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Focus-Backend%20Systems-0d1117?style=flat" />
+  <img src="https://img.shields.io/badge/Auth-JWT%20%2B%20Sessions-0d1117?style=flat" />
+  <img src="https://img.shields.io/badge/APIs-RESTful%20Design-0d1117?style=flat" />
+  <img src="https://img.shields.io/badge/DSA-Problem%20Solving-0d1117?style=flat" />
+</p>
+
+---
+
+🚀 **Current Work**
+- Building **Gearly — Full-Stack E-Commerce Platform**
+
+🧠 **Currently Improving**
+- Data Structures & Algorithms
+- Backend Architecture & System Thinking
+
+---
+
+🌐 **Links**
+- Portfolio: https://dev-shahriar.netlify.app/
+- Resume: https://drive.google.com/file/d/1jXQDKs9ymRFHbvTqmXxCFmp8XyzWWxWJ/view
+
+📫 **Contact**
+- Email: shahriarh655@gmail.com
 
 ---
 
