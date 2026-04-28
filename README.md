@@ -1,7 +1,7 @@
 <h1 align="center">Shahriar Hossain</h1>
 
 <p align="center">
-  Full-Stack JavaScript Engineer • Focused on Scalable Full-Stack Applications
+  JavaScript Developer • Focused on Scalable Full-Stack Applications
 </p>
 
 <p align="center">
