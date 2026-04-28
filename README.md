@@ -74,6 +74,10 @@ Full-Stack JavaScript Developer focused on **scalable full-stack applications**
   <img src="https://img.shields.io/badge/LeetCode-000?style=for-the-badge&logo=leetcode" />
 </a>
 
+<a href="https://neetcode.io/profile" target="_blank">
+  <img src="https://img.shields.io/badge/NeetCode-000?style=for-the-badge&logo=codeforces" />
+</a>
+
 <a href="https://instagram.com/hossain_shah_riar_" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
 </a>
