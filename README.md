@@ -47,17 +47,21 @@ If you're looking for someone who is dedicated, consistent, and always learning,
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/shahriarhsn/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin" />
-</a>
+<p align="left">
 
-<a href="https://dev-shahriar.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel" />
+<a href="https://www.linkedin.com/in/shahriarhsn/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" />
 </a>
 
 <a href="https://instagram.com/hossain_shah_riar_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram" />
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge" />
 </a>
+
+<a href="https://dev-shahriar.netlify.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-4F46E5?style=for-the-badge" />
+</a>
+
+</p>
 
 ---
 
